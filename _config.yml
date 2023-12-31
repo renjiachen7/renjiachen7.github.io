@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jiachen's Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jiachen Ren"
+description              : &description "Student of UofU, major in Division of Game."
 url                      : https://renjiachen7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "renjiachen7/renjiachen7.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiachen Ren"
   avatar           : "avatar.jpg"
-  bio              : "Student of UOU, major in Division of Game "
+  bio              : 
   location         : "Salt Lake City, UT"
   employer         :
   pubmed           : 
