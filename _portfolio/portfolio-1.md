@@ -1,6 +1,6 @@
 ---
 title: "3D Models"
-excerpt: "3D Model Created by Me <br/><img src='/images/spacemarine.png'>"
+excerpt: "3D Model Created by Me <br/><img src='/images/mystuff/spacemarine.png'>"
 collection: portfolio
 ---
 Space Marine

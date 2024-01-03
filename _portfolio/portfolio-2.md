@@ -1,6 +1,6 @@
 ---
 title: "3D Animations & Effects"
-excerpt: "3D Animations & Effects Created by Me<br/><img src='/images/spacemarine.png'>"
+excerpt: "3D Animations & Effects Created by Me<br/><img src='/images/mystuff/jas.png'>"
 collection: portfolio
 ---
 "Just A Slice" Pt. 2

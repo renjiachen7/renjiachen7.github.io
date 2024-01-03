@@ -1,6 +1,6 @@
 ---
 title: "Digital Paintings"
-excerpt: "2D Artworks Created by Me<br/><img src='/images/spacemarine.png'>"
+excerpt: "2D Artworks Created by Me<br/><img src='/images/mystuff/IMG_0034.png'>"
 collection: portfolio
 ---
 Procreate
