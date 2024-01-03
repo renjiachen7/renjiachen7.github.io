@@ -31,10 +31,6 @@ Illustrator
 ======
 ![alt text](/images/mystuff/island.png)
 
-![alt text](/images/mystuff/Untitled_Artwork.png)
-
-![alt text](/images/mystuff/IMG_0022.png)
-
 Paint form Life
 ======
 Perfume Bottle
