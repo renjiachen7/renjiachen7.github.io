@@ -1,9 +1,72 @@
 ---
 title: "3D Models"
-excerpt: "Works of 3D Model <br/><img src='/images/500x300.png'>"
+excerpt: "3D Model Created by Me <br/><img src='/images/spacemarine.png'>"
 collection: portfolio
 ---
 Space Marine
 ======
-<img src='/images/mystuff/spacemarine.jpg'>
-<br/><img src='/images/mystuff/spacemarine_2.jpg'>
+![alt text](/images/mystuff/spacemarine.png)
+
+![alt text](/images/mystuff/spacemarine_2.png)
+
+Fish Guy
+======
+High Poly
+-
+![alt text](/images/mystuff/fishguy.png)
+Low poly
+-
+![alt text](/images/mystuff/Fishguy2.png)
+
+Sword
+======
+![alt text](/images/mystuff/sword.png)
+
+![alt text](/images/mystuff/sword2.png)
+
+Pavilion
+======
+![alt text](/images/mystuff/pavilion.png)
+
+Human Muscle
+======
+![alt text](/images/mystuff/muscle.png)
+
+![alt text](/images/mystuff/muscle2.png)
+
+![alt text](/images/mystuff/muscle3.jpg)
+
+Nail Hammer
+======
+![alt text](/images/mystuff/nailhammer.jpg)
+
+Fire Hydrant
+======
+![alt text](/images/mystuff/firehydrant.jpg)
+
+![alt text](/images/mystuff/firehydrant2.jpg)
+
+Gundam Head
+======
+![alt text](/images/mystuff/gundam2.png)
+
+![alt text](/images/mystuff/gundam.png)
+
+Metal Plate
+======
+![alt text](/images/mystuff/metal.png)
+
+Other
+=====
+![alt text](/images/mystuff/WallE.png)
+
+![alt text](/images/mystuff/Airen.png)
+
+![alt text](/images/mystuff/Tank.png)
+
+![alt text](/images/mystuff/Demon.png)
+
+![alt text](/images/mystuff/Laptop.png)
+
+![alt text](/images/mystuff/Telescope.jpg)
+<!-- ![alt text](/images/mystuff) -->
