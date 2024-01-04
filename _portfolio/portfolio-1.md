@@ -24,6 +24,10 @@ Sword
 
 ![alt text](/images/mystuff/sword2.png)
 
+Shield
+======
+![alt text](/images/mystuff/shield.png)
+
 Pavilion
 ======
 ![alt text](/images/mystuff/pavilion.png)
