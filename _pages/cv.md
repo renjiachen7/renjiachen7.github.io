@@ -54,6 +54,8 @@ Skills
   * Audition
   * Fl Studio
 
+[My Resume](https://renjiachen7.github.io/files/Jiachen_Ren_CV.pdf)
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
