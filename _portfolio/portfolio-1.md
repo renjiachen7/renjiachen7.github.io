@@ -11,11 +11,10 @@ Space Marine
 
 Fish Guy
 ======
-High Poly
--
+![alt text](/images/mystuff/FishGuyRender.png)
+
 ![alt text](/images/mystuff/fishguy.png)
-Low poly
--
+
 ![alt text](/images/mystuff/Fishguy2.png)
 
 Sword
