@@ -11,7 +11,7 @@ Space Marine
 
 Fish Guy
 ======
-![alt text](/images/mystuff/FishGuyRenderOrange.png)
+![alt text](/images/mystuff/FishGuyRenderOrange.png) 
 
 ![alt text](/images/mystuff/fishguy.png)
 
