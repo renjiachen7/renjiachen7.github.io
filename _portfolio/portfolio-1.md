@@ -27,6 +27,14 @@ Shield
 ======
 ![alt text](/images/mystuff/shield.png)
 
+Objects
+======
+![alt text](/images/mystuff/Tomato.png)
+
+![alt text](/images/mystuff/Candle.png)
+
+![alt text](/images/mystuff/Bowl.png)
+
 Pavilion
 ======
 ![alt text](/images/mystuff/pavilion.png)
