@@ -11,7 +11,7 @@ collection: portfolio
 =
 ![alt text](/images/mystuff/fengmian2.png)
 
-[Audio Mixing](https://youtu.be/xhxR5VxRask)
+[Audio Mixing](https://youtu.be/ORDtQPrLDBI)
 =
 ![alt text](/images/mystuff/fengmian3.png)
 <!-- ![alt text](/images/mystuff) -->
